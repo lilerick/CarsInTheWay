@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsInTheWay", "CarsInTheWay\CarsInTheWay.csproj", "{9C0FD6F7-D86B-4DFF-BDBB-4A2A0624EF3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsInTheWayFront", "CarsInTheWayFront\CarsInTheWayFront.csproj", "{B8E7366A-EF55-4135-A3E9-06802F7FCA0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9C0FD6F7-D86B-4DFF-BDBB-4A2A0624EF3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C0FD6F7-D86B-4DFF-BDBB-4A2A0624EF3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C0FD6F7-D86B-4DFF-BDBB-4A2A0624EF3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8E7366A-EF55-4135-A3E9-06802F7FCA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E7366A-EF55-4135-A3E9-06802F7FCA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E7366A-EF55-4135-A3E9-06802F7FCA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E7366A-EF55-4135-A3E9-06802F7FCA0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
